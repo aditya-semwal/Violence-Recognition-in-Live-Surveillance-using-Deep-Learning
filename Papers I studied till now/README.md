@@ -7,5 +7,5 @@ https://ieeexplore.ieee.org/document/9120872
 3. Violence Detection in Surveillance Videos Using
 https://ieeexplore.ieee.org/document/8910041
 
-4. Violence Recognition from Videos using Deep
+4. Violence Recognition from Videos using Deep Neural Networks
 https://ieeexplore.ieee.org/document/9014714
